@@ -1,2 +1,5 @@
 # Projet_GIT
-Projet réalisé par Lachgar Amine et Loreaux Alexi
+Projet réalisé à l'ESGI
+Contributeurs :
+Lachgar Amine ---> @Marokingu
+Loreaux Alexi ---> @AlexiLRX
