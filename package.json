@@ -1,11 +1,16 @@
 {
   "devDependencies": {
     "eslint": "^8.45.0",
-    "husky": "^8.0.3"
+    "husky": "^8.0.3",
+    "jest": "^29.6.1"
   },
   "husky": {
     "hooks": {
       "pre-commit": "npx eslint ."
     }
+  },
+  "scripts": {
+    "test": "jest --watch"
   }
 }
+
